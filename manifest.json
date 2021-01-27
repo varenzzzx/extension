@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "VExtension",
+  "description": "This is new extension by V Corp",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
