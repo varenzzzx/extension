@@ -6,8 +6,7 @@
   "version": "1.0",
 
   
-   "default_icon": 
-   "default_popup": "popup.html"
+  
   },
   "permissions": [
    "activeTab"
